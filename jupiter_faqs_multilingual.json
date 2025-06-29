@@ -1,0 +1,1153 @@
+{
+  "FAQs": [
+    {
+      "question": "What type of payments can I make with Jupiter UPI?",
+      "answer": "You can send money, pay contacts, scan QR codes at stores, and shop online—securely and instantly.",
+      "topics": [
+        "Upi"
+      ],
+      "question_hi": "बृहस्पति यूपीआई के साथ मैं किस प्रकार के भुगतान कर सकता हूं?",
+      "answer_hi": "आप पैसे भेज सकते हैं, संपर्कों का भुगतान कर सकते हैं, दुकानों पर क्यूआर कोड स्कैन कर सकते हैं, और ऑनलाइन खरीदारी कर सकते हैं - निश्चित रूप से और तुरंत।"
+    },
+    {
+      "question": "Do I need to open a Jupiter Savings Account to use UPI?",
+      "answer": "No, you can use Jupiter UPI with your existing bank account by linking it on the Jupiter app.",
+      "topics": [
+        "Upi"
+      ],
+      "question_hi": "क्या मुझे UPI का उपयोग करने के लिए एक बृहस्पति बचत खाता खोलने की आवश्यकता है?",
+      "answer_hi": "नहीं, आप बृहस्पति ऐप पर इसे जोड़कर अपने मौजूदा बैंक खाते के साथ बृहस्पति यूपीआई का उपयोग कर सकते हैं।"
+    },
+    {
+      "question": "What rewards do I get with my Edge CSB Bank RuPay Credit Card?",
+      "answer": "You can get 2% cashback on UPI & credit card spends with the Edge CSB Bank RuPay Credit Card.",
+      "topics": [
+        "Upi"
+      ],
+      "question_hi": "मुझे अपने बढ़त CSB बैंक Rupay क्रेडिट कार्ड के साथ क्या पुरस्कार मिलते हैं?",
+      "answer_hi": "आप UPI और क्रेडिट कार्ड खर्च पर 2% कैशबैक प्राप्त कर सकते हैं, जो एज CSB बैंक Rupay क्रेडिट कार्ड के साथ है।"
+    },
+    {
+      "question": "Can I send money to contacts using other UPI apps?",
+      "answer": "Absolutely. Jupiter lets you send money to anyone—regardless of the UPI app they use.",
+      "topics": [
+        "Upi"
+      ],
+      "question_hi": "क्या मैं अन्य UPI ऐप्स का उपयोग करके संपर्कों में पैसे भेज सकता हूं?",
+      "answer_hi": "बिल्कुल। बृहस्पति आपको किसी को भी पैसे भेजने देता है - यूपीआई ऐप के बावजूद वे उपयोग करते हैं।"
+    },
+    {
+      "question": "What is UPI Lite and how does it work?",
+      "answer": "UPI Lite lets you make small-value payments without entering your UPI PIN (Up to 5,000). It’s perfect for quick spends like groceries or tea.",
+      "topics": [
+        "Upi"
+      ],
+      "question_hi": "यूपीआई लाइट क्या है और यह कैसे काम करता है?",
+      "answer_hi": "यूपीआई लाइट आपको अपने यूपीआई पिन (₹ 5,000 तक) में प्रवेश किए बिना छोटे-मूल्य का भुगतान करने देता है। यह किराने का सामान या चाय जैसे त्वरित खर्च के लिए एकदम सही है।"
+    },
+    {
+      "question": "Is there a limit on UPI transactions?",
+      "answer": "To ensure safety of your transactions, NPCI has set the maximum daily UPI payments limit to 1 Lakh.",
+      "topics": [
+        "Upi"
+      ],
+      "question_hi": "क्या UPI लेनदेन पर कोई सीमा है?",
+      "answer_hi": "अपने लेनदेन की सुरक्षा सुनिश्चित करने के लिए, NPCI ने अधिकतम दैनिक UPI भुगतान सीमा को ₹ 1 लाख पर सेट किया है।"
+    },
+    {
+      "question": "What is the Jupiter All-in-1 Savings Account?",
+      "answer": "The All-in-1 Savings Account on Jupiter powered by Federal Bank helps you manage your money better with faster payments, smart saving tools, and investment insights—all in one place.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "बृहस्पति ऑल-इन -1 बचत खाता क्या है?",
+      "answer_hi": "फेडरल बैंक द्वारा संचालित बृहस्पति पर ऑल-इन -1 बचत खाता आपको तेजी से भुगतान, स्मार्ट बचत उपकरण और निवेश अंतर्दृष्टि के साथ अपने पैसे को बेहतर ढंग से प्रबंधित करने में मदद करता है-सभी एक ही स्थान पर।"
+    },
+    {
+      "question": "How do I open a Jupiter Savings Account?",
+      "answer": "You can open your Jupiter digital account by following a few simple steps: Install the Jupiter app Tap ‘Open an all-in-1 Savings Account’ while selecting a Jupiter experience Complete your video KYC",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "मैं एक बृहस्पति बचत खाता कैसे खोलूं?",
+      "answer_hi": "आप कुछ सरल चरणों का पालन करके अपना बृहस्पति डिजिटल खाता खोल सकते हैं: ज्यूपिटर ऐप टैप करें ‘एक ऑल-इन -1 सेविंग अकाउंट खोलें '"
+    },
+    {
+      "question": "Do I earn Jewels for making payments?",
+      "answer": "Yes! You earn up to 1% cashback as Jewels on: UPI payments Debit Card spends (online & offline) Investments in Digital Gold",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या मैं भुगतान करने के लिए गहने अर्जित करता हूं?",
+      "answer_hi": "हाँ! आप गहने के रूप में 1% कैशबैक कमाते हैं: UPI भुगतान डेबिट कार्ड खर्च (ऑनलाइन और ऑफलाइन) डिजिटल गोल्ड में निवेश"
+    },
+    {
+      "question": "Can I use my Jupiter Debit Card outside India?",
+      "answer": "Absolutely. You can spend in over 120 countries with 0% forex fee on international transactions using your Jupiter Debit Card.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या मैं भारत के बाहर अपने बृहस्पति डेबिट कार्ड का उपयोग कर सकता हूं?",
+      "answer_hi": "बिल्कुल। आप अपने बृहस्पति डेबिट कार्ड का उपयोग करके अंतर्राष्ट्रीय लेनदेन पर 0% विदेशी मुद्रा शुल्क के साथ 120 से अधिक देशों में खर्च कर सकते हैं।"
+    },
+    {
+      "question": "Do I earn Jewels on International payments?",
+      "answer": "Yes, you also earn up to 1% cashback on online and offline international spends.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या मैं अंतरराष्ट्रीय भुगतान पर गहने अर्जित करता हूं?",
+      "answer_hi": "हां, आप ऑनलाइन और ऑफलाइन अंतर्राष्ट्रीय खर्चों पर 1% कैशबैक भी कमाते हैं।"
+    },
+    {
+      "question": "What payment modes are available with the Jupiter account?",
+      "answer": "You can make superfast payments with UPI, IMPS, and debit card—whether it's for recharges, bills, or merchant transactions.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "बृहस्पति खाते के साथ कौन से भुगतान मोड उपलब्ध हैं?",
+      "answer_hi": "आप UPI, IMPS, और डेबिट कार्ड के साथ सुपरफास्ट भुगतान कर सकते हैं - चाहे वह रिचार्ज, बिल, या व्यापारी लेनदेन के लिए हो"
+    },
+    {
+      "question": "Can I invest using my Jupiter account?",
+      "answer": "Yes! You can invest in Mutual Funds and Digital Gold with up to 1.5% extra returns on curated mutual fund plans.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या मैं अपने बृहस्पति खाते का उपयोग करके निवेश कर सकता हूं?",
+      "answer_hi": "हाँ! आप म्यूचुअल फंड और डिजिटल गोल्ड में क्यूरेटेड म्यूचुअल फंड प्लान पर 1.5% अतिरिक्त रिटर्न के साथ निवेश कर सकते हैं।"
+    },
+    {
+      "question": "What additional benefits do I get with the Savings Account?",
+      "answer": "Yes! You earn up to 1% cashback as Jewels on: Free cheque book Free IMPS transfers ATM withdrawals",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "बचत खाते से मुझे क्या अतिरिक्त लाभ मिलते हैं?",
+      "answer_hi": "हाँ! आप गहने के रूप में 1% कैशबैक कमाते हैं: मुफ्त चेक बुक फ्री इम्प्स ट्रांसफर एटीएम निकासी"
+    },
+    {
+      "question": "How much does the Corporate Salary Account cost?",
+      "answer": "It's completely free.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "कॉर्पोरेट वेतन खाते की लागत कितनी है?",
+      "answer_hi": "यह पूरी तरह से स्वतंत्र है।"
+    },
+    {
+      "question": "What if my company already has salary accounts for employees with another bank?",
+      "answer": "If you have an existing account with another bank, you can continue using it for business banking. You can still use Jupiter Corporate Salary Account for your employees with discounted medical insurance, 0% interest loans, 0 forex fees, and more. Ultimately, you get the best of both worlds.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या होगा अगर मेरी कंपनी के पास पहले से ही किसी अन्य बैंक वाले कर्मचारियों के लिए वेतन खाते हैं?",
+      "answer_hi": "यदि आपके पास किसी अन्य बैंक के साथ कोई मौजूदा खाता है, तो आप इसे बिजनेस बैंकिंग के लिए उपयोग करना जारी रख सकते हैं। आप अभी भी अपने कर्मचारियों के लिए रियायती चिकित्सा बीमा, 0% ब्याज ऋण, 0 विदेशी मुद्रा शुल्क, और बहुत कुछ के साथ बृहस्पति कॉर्पोरेट वेतन खाते का उपयोग कर सकते हैं। अंततः, आपको दोनों दुनिया के सर्वश्रेष्ठ मिलते हैं।"
+    },
+    {
+      "question": "Is my employee’s money safe?",
+      "answer": "It is 100% safe. Jupiter Corporate Salary Account is hosted in an RBI-licensed bank (Federal Bank) and the money in the account is insured up to 5,00,000.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या मेरे कर्मचारी का पैसा सुरक्षित है?",
+      "answer_hi": "यह 100% सुरक्षित है। ज्यूपिटर कॉर्पोरेट सैलरी अकाउंट की मेजबानी आरबीआई-लाइसेंस प्राप्त बैंक (फेडरल बैंक) में की जाती है और खाते में धन का बीमा of 5,00,000 तक किया जाता है।"
+    },
+    {
+      "question": "Does my company need a minimum number of employees?",
+      "answer": "We support companies of all sizes. From 2-person businesses to organizations that have over 1000 employees.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या मेरी कंपनी को कम से कम कर्मचारियों की आवश्यकता है?",
+      "answer_hi": "हम सभी आकारों की कंपनियों का समर्थन करते हैं। 2-व्यक्ति व्यवसायों से लेकर संगठनों तक जिनके 1000 से अधिक कर्मचारी हैं।"
+    },
+    {
+      "question": "What is the benefit for my company?",
+      "answer": "Jupiter Corporate Salary Account helps you save up to 50,00,000 yearly by cutting down on HRMS costs, payroll software costs and health insurance costs. You can streamline payout processes with our bulk salary payout portal. Your employees can also get loans at 0% interest, and invest in Mutual Funds and Digital Gold on Jupiter.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "मेरी कंपनी के लिए क्या लाभ है?",
+      "answer_hi": "ज्यूपिटर कॉर्पोरेट सैलरी अकाउंट आपको एचआरएमएस लागत, पेरोल सॉफ्टवेयर लागत और स्वास्थ्य बीमा लागतों में कटौती करके are 50,00,000 तक वार्षिक रूप से बचाने में मदद करता है। आप हमारे बल्क वेतन पेआउट पोर्टल के साथ पेआउट प्रक्रियाओं को सुव्यवस्थित कर सकते हैं।"
+    },
+    {
+      "question": "Which documents are needed for opening a Salary Account?",
+      "answer": "Your employees need to have the following to open a Jupiter Corporate Salary Account: Physical PAN card A smart phone Mobile number linked to Aadhar card PAN & Aadhaar should be linked",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "वेतन खाता खोलने के लिए किन दस्तावेजों की आवश्यकता है?",
+      "answer_hi": "आपके कर्मचारियों को एक बृहस्पति कॉर्पोरेट वेतन खाता भौतिक पैन कार्ड खोलने के लिए निम्नलिखित की आवश्यकता है"
+    },
+    {
+      "question": "What is the initial deposit when you open a Salary Account?",
+      "answer": "No initial deposit is required to open a Salary Account.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "जब आप वेतन खाता खोलते हैं तो प्रारंभिक जमा क्या होता है?",
+      "answer_hi": "वेतन खाता खोलने के लिए कोई प्रारंभिक जमा की आवश्यकता नहीं है।"
+    },
+    {
+      "question": "Do we need to shift our Current Account to Jupiter?",
+      "answer": "Absolutely not, your existing relationship with banker is mostly for Business Banking. You shall continue enjoying benefits provided by your existing banker (for Business Banking) + enjoy additional benefits from Jupiter against your employee’s bank account. You get to enjoy the best of both worlds.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या हमें अपने चालू खाते को बृहस्पति में स्थानांतरित करने की आवश्यकता है?",
+      "answer_hi": "बिल्कुल नहीं, बैंकर के साथ आपका मौजूदा संबंध ज्यादातर व्यावसायिक बैंकिंग के लिए है। आप अपने मौजूदा बैंकर (व्यवसाय बैंकिंग के लिए) द्वारा प्रदान किए गए लाभों का आनंद लेना जारी रखेंगे + अपने कर्मचारी के बैंक खाते के खिलाफ बृहस्पति से अतिरिक्त लाभ का आनंद लें। आपको दोनों दुनिया के सर्वश्रेष्ठ का आनंद मिलता है।"
+    },
+    {
+      "question": "Do employees need to maintain any minimum balance?",
+      "answer": "While users are required to maintain 5,000 as the average monthly balance, charges up to 200 for not maintaining of balance. However, for Salary Account users, the account is a zero balance account on consistent salary credits.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या कर्मचारियों को कोई न्यूनतम संतुलन बनाए रखने की आवश्यकता है?",
+      "answer_hi": "जबकि उपयोगकर्ताओं को औसत मासिक संतुलन के रूप में ₹ 5,000 बनाए रखने की आवश्यकता होती है, संतुलन बनाए रखने के लिए ₹ 200 तक का शुल्क। हालांकि वेतन खाता उपयोगकर्ताओं के लिए, खाता लगातार वेतन क्रेडिट पर एक शून्य शेष खाता है।"
+    },
+    {
+      "question": "Is it a Federal bank account or Jupiter account?",
+      "answer": "A Federal Bank account is created for each employee. They can use the Jupiter app to pay, invest or save money without any restrictions.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या यह एक संघीय बैंक खाता या बृहस्पति खाता है?",
+      "answer_hi": "प्रत्येक कर्मचारी के लिए एक संघीय बैंक खाता बनाया जाता है। वे बिना किसी प्रतिबंध के पैसे का भुगतान, निवेश या बचत करने के लिए बृहस्पति ऐप का उपयोग कर सकते हैं।"
+    },
+    {
+      "question": "Can the employee continue with the Jupiter salary account even if he leaves the present company?",
+      "answer": "Your employees can continue using the same Salary Account with their new employer and keep enjoying our benefits.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या कर्मचारी वर्तमान कंपनी छोड़ने पर भी बृहस्पति वेतन खाते के साथ जारी रख सकता है?",
+      "answer_hi": "आपके कर्मचारी अपने नए नियोक्ता के साथ एक ही वेतन खाते का उपयोग करना जारी रख सकते हैं और हमारे लाभों का आनंद लेते रह सकते हैं।"
+    },
+    {
+      "question": "If any employee has an active loan with their current bank, can they still use the Jupiter Corporate Salary Account?",
+      "answer": "They can continue paying their loan with their existing bank. Jupiter's Autopay feature lets them auto-transfer any amount from their Jupiter account to their existing bank, ensuring their loan payments continue seamlessly.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "यदि किसी कर्मचारी के पास अपने वर्तमान बैंक के साथ एक सक्रिय ऋण है, तो क्या वे अभी भी बृहस्पति कॉर्पोरेट वेतन खाते का उपयोग कर सकते हैं?",
+      "answer_hi": "वे अपने मौजूदा बैंक के साथ अपने ऋण का भुगतान जारी रख सकते हैं। बृहस्पति की ऑटोपे फीचर उन्हें अपने बृहस्पति खाते से उनके मौजूदा बैंक में किसी भी राशि को ऑटो-ट्रांसफर करने देता है, यह सुनिश्चित करता है कि उनके ऋण भुगतान मूल रूप से जारी रहे।"
+    },
+    {
+      "question": "What investment options are available on Jupiter?",
+      "answer": "You can invest in the following: Mutual Funds Digital Gold Magic Spends Fixed Deposits",
+      "topics": [
+        "Invest"
+      ],
+      "question_hi": "बृहस्पति पर कौन से निवेश विकल्प उपलब्ध हैं?",
+      "answer_hi": "आप निम्नलिखित में निवेश कर सकते हैं: म्यूचुअल फंड डिजिटल गोल्ड मैजिक फिक्स्ड डिपॉजिट खर्च करता है"
+    },
+    {
+      "question": "Do I need to open a Savings Account to Invest on Jupiter?",
+      "answer": "Yes, you need to open a Savings Account to invest in Mutual Funds, Magic Spends or Fixed Deposits. But, you can start investing in Digital Gold even without opening a Savings Account.",
+      "topics": [
+        "Invest"
+      ],
+      "question_hi": "क्या मुझे बृहस्पति पर निवेश करने के लिए बचत खाता खोलने की आवश्यकता है?",
+      "answer_hi": "हां, आपको म्यूचुअल फंड, मैजिक खर्च या फिक्स्ड डिपॉजिट में निवेश करने के लिए एक बचत खाता खोलने की आवश्यकता है। लेकिन, आप बचत खाता खोलने के बिना भी डिजिटल गोल्ड में निवेश करना शुरू कर सकते हैं।"
+    },
+    {
+      "question": "Is there a fee for investing in Mutual Funds on Jupiter?",
+      "answer": "No, Jupiter doesn't charge any commissions or extra fees on Mutual Funds.",
+      "topics": [
+        "Invest"
+      ],
+      "question_hi": "क्या बृहस्पति पर म्यूचुअल फंड में निवेश करने का शुल्क है?",
+      "answer_hi": "नहीं, बृहस्पति म्यूचुअल फंड पर कोई कमीशन या अतिरिक्त शुल्क नहीं लेता है"
+    },
+    {
+      "question": "How do No-Penalty SIPs work on Jupiter ?",
+      "answer": "No-Penalty SIPs let you skip SIPs without having to pay any extra charges.",
+      "topics": [
+        "Invest"
+      ],
+      "question_hi": "नो-पेनल्टी घूंट बृहस्पति पर कैसे काम करते हैं?",
+      "answer_hi": "नो-पेनल्टी घूंट आपको बिना किसी अतिरिक्त शुल्क के घूंट को छोड़ने देता है"
+    },
+    {
+      "question": "What is ‘Magic Spends’ and how does it work?",
+      "answer": "Magic Spends lets you auto-invest small amounts (like 10 or more) every time you spend, turning your daily spending into effortless investing.",
+      "topics": [
+        "Invest"
+      ],
+      "question_hi": "'मैजिक खर्च' क्या है और यह कैसे काम करता है?",
+      "answer_hi": "मैजिक खर्च आपको हर बार जब आप खर्च करते हैं, तो आपके दैनिक खर्च को सहज निवेश में बदल देते हैं।"
+    },
+    {
+      "question": "Can I withdraw from Fixed Deposits before maturity?",
+      "answer": "Yes, FlexiFD lets you withdraw money in parts without having to break your full FD.",
+      "topics": [
+        "Invest"
+      ],
+      "question_hi": "क्या मैं परिपक्वता से पहले फिक्स्ड डिपॉजिट से हट सकता हूं?",
+      "answer_hi": "हां, फ्लेक्सिफ़्ड आपको अपने पूर्ण एफडी को तोड़ने के बिना भागों में पैसे निकालने देता है।"
+    },
+    {
+      "question": "Is my money safe when I invest on Jupiter?",
+      "answer": "Yes. Jupiter partners with trusted AMCs, RBI-regulated entities, and SEBI-compliant platforms to ensure your investments are 100% safe.",
+      "topics": [
+        "Invest"
+      ],
+      "question_hi": "जब मैं बृहस्पति पर निवेश करता हूं तो क्या मेरा पैसा सुरक्षित है?",
+      "answer_hi": "हाँ। भरोसेमंद एएमसीएस, आरबीआई-विनियमित संस्थाओं और सेबी-अनुरूप प्लेटफार्मों के साथ जुपिटर भागीदार यह सुनिश्चित करने के लिए कि आपके निवेश 100% सुरक्षित हैं।"
+    },
+    {
+      "question": "What is Magic Spends and how does it work?",
+      "answer": "Magic Spends is an exclusive feature on Jupiter to automatically invest every time you spend. You can select any amount, set a monthly limit, and invest in either Mutual Funds or Digital Gold with every UPI, Debit Card, and Credit Card payment.",
+      "topics": [
+        "Magic Spend"
+      ],
+      "question_hi": "जादू क्या है और यह कैसे काम करता है?",
+      "answer_hi": "मैजिक खर्च हर बार खर्च करने के लिए स्वचालित रूप से निवेश करने के लिए बृहस्पति पर एक विशेष विशेषता है। आप किसी भी राशि का चयन कर सकते हैं, मासिक सीमा निर्धारित कर सकते हैं, और हर UPI, डेबिट कार्ड और क्रेडिट कार्ड भुगतान के साथ म्यूचुअल फंड या डिजिटल गोल्ड में निवेश कर सकते हैं।"
+    },
+    {
+      "question": "Where can I invest with Magic Spends?",
+      "answer": "You can invest in a Mutual Fund of your choice or 24K Digital Gold every time you spend.",
+      "topics": [
+        "Magic Spend"
+      ],
+      "question_hi": "मैं मैजिक खर्च के साथ कहां निवेश कर सकता हूं?",
+      "answer_hi": "आप अपनी पसंद के म्यूचुअल फंड या 24K डिजिटल गोल्ड में हर बार खर्च कर सकते हैं।"
+    },
+    {
+      "question": "Can I customize how much money I auto-invest every time I spend?",
+      "answer": "Yes, you can auto-invest 10 or more in Digital Gold or 100 or more in Mutual Funds every time you spend with Magic Spends.",
+      "topics": [
+        "Magic Spend"
+      ],
+      "question_hi": "क्या मैं हर बार जब मैं खर्च करता हूं तो मैं कितना पैसा ऑटो-निवेश कर सकता हूं?",
+      "answer_hi": "हां, आप हर बार जब आप मैजिक खर्च के साथ खर्च करते हैं, तो आप म्यूचुअल फंड में डिजिटल गोल्ड में ₹ 10 या उससे अधिक ऑटो-इनवेस्ट या अधिक ऑटो-इनवेस्ट कर सकते हैं।"
+    },
+    {
+      "question": "Can I track my invested amount with Magic Spends?",
+      "answer": "Yes, you can track the value of your invested amount in real-time for both Mutual Funds and Digital Gold.",
+      "topics": [
+        "Magic Spend"
+      ],
+      "question_hi": "क्या मैं मैजिक खर्च के साथ अपनी निवेशित राशि को ट्रैक कर सकता हूं?",
+      "answer_hi": "हां, आप म्यूचुअल फंड और डिजिटल गोल्ड दोनों के लिए वास्तविक समय में अपनी निवेशित राशि के मूल्य को ट्रैक कर सकते हैं।"
+    },
+    {
+      "question": "What happens if I don’t have enough balance in my account?",
+      "answer": "If you don’t have enough balance while spending, Magic Spends will be skipped. You can continue auto-investing after you add money to your account.",
+      "topics": [
+        "Magic Spend"
+      ],
+      "question_hi": "यदि मेरे खाते में पर्याप्त शेष राशि नहीं है तो क्या होगा?",
+      "answer_hi": "यदि आपके पास खर्च करते समय पर्याप्त संतुलन नहीं है, तो मैजिक खर्च को छोड़ दिया जाएगा। अपने खाते में पैसे जोड़ने के बाद आप ऑटो-इन्वेस्टिंग जारी रख सकते हैं।"
+    },
+    {
+      "question": "Can I pause Magic Spends or withdraw my invested amount?",
+      "answer": "Yes, you can pause Magic Spends anytime through the app. You can also withdraw the money you’ve invested and it will be credited instantly to your account.",
+      "topics": [
+        "Magic Spend"
+      ],
+      "question_hi": "क्या मैं मैजिक खर्च को रोक सकता हूं या अपनी निवेशित राशि को वापस ले सकता हूं?",
+      "answer_hi": "हां, आप ऐप के माध्यम से कभी भी मैजिक खर्च को रोक सकते हैं। आप अपने द्वारा निवेश किए गए धन को भी वापस ले सकते हैं और इसे आपके खाते में तुरंत जमा किया जाएगा।"
+    },
+    {
+      "question": "Are there any fees or charges for Magic Spends?",
+      "answer": "No, Magic Spends is completely free to set up and Jupiter does not charge any commissions.",
+      "topics": [
+        "Magic Spend"
+      ],
+      "question_hi": "क्या जादू खर्च के लिए कोई शुल्क या शुल्क है?",
+      "answer_hi": "नहीं, मैजिक खर्च पूरी तरह से स्थापित करने के लिए स्वतंत्र है और बृहस्पति किसी भी कमीशन को चार्ज नहीं करता है।"
+    },
+    {
+      "question": "What payment methods does Jupiter support?",
+      "answer": "You can make payments via UPI, your linked bank account, and debit cards. You can also link any bank’s RuPay Credit Card to Jupiter UPI and make payments.",
+      "topics": [
+        "Payment"
+      ],
+      "question_hi": "बृहस्पति किन भुगतान के तरीके समर्थन करते हैं?",
+      "answer_hi": "आप UPI, अपने लिंक्ड बैंक खाते और डेबिट कार्ड के माध्यम से भुगतान कर सकते हैं। आप किसी भी बैंक के Rupay क्रेडिट कार्ड को जुपिटर UPI से जोड़ सकते हैं और भुगतान कर सकते हैं।"
+    },
+    {
+      "question": "Is it safe to make payments through Jupiter?",
+      "answer": "Yes. Jupiter uses industry-standard encryption and is compliant with RBI regulations to ensure secure and private transactions.",
+      "topics": [
+        "Payment"
+      ],
+      "question_hi": "क्या बृहस्पति के माध्यम से भुगतान करना सुरक्षित है?",
+      "answer_hi": "हाँ। बृहस्पति उद्योग-मानक एन्क्रिप्शन का उपयोग करता है और सुरक्षित और निजी लेनदेन सुनिश्चित करने के लिए आरबीआई नियमों के अनुरूप है।"
+    },
+    {
+      "question": "Can I pay my bills using Jupiter?",
+      "answer": "Yes, you can pay utility bills like electricity, gas, DTH, water, and mobile recharges directly from the app.",
+      "topics": [
+        "Payment"
+      ],
+      "question_hi": "क्या मैं बृहस्पति का उपयोग करके अपने बिलों का भुगतान कर सकता हूं?",
+      "answer_hi": "हां, आप ऐप से सीधे बिजली, गैस, डीटीएच, पानी और मोबाइल रिचार्ज जैसे उपयोगिता बिलों का भुगतान कर सकते हैं।"
+    },
+    {
+      "question": "Can I link multiple bank accounts to Jupiter?",
+      "answer": "Yes, you can link more than one bank account and switch between them when making UPI payments.",
+      "topics": [
+        "Payment"
+      ],
+      "question_hi": "क्या मैं कई बैंक खातों को बृहस्पति से जोड़ सकता हूं?",
+      "answer_hi": "हां, आप एक से अधिक बैंक खाते को लिंक कर सकते हैं और यूपीआई भुगतान करते समय उनके बीच स्विच कर सकते हैं।"
+    },
+    {
+      "question": "Can I track my payments on Jupiter?",
+      "answer": "Yes, you can track all your payments, see your top spending categories, and get actionable insights to better manage your money.",
+      "topics": [
+        "Payment"
+      ],
+      "question_hi": "क्या मैं बृहस्पति पर अपने भुगतान को ट्रैक कर सकता हूं?",
+      "answer_hi": "हां, आप अपने सभी भुगतानों को ट्रैक कर सकते हैं, अपनी शीर्ष खर्च करने वाली श्रेणियां देख सकते हैं, और अपने पैसे को बेहतर ढंग से प्रबंधित करने के लिए कार्रवाई योग्य अंतर्दृष्टि प्राप्त कर सकते हैं।"
+    },
+    {
+      "question": "How do I earn cashback or rewards on payments?",
+      "answer": "If you have a PRO Savings Account, you earn 1% cashback on all Debit Card payments and UPI payments from 7 top brands. If you have linked any RuPay Credit Card to Jupiter UPI, you earn up to 2% cashback on every payment. Cashback is credited in the form of Jewels. 5 Jewels = 1",
+      "topics": [
+        "Payment"
+      ],
+      "question_hi": "मैं भुगतान पर कैशबैक या पुरस्कार कैसे अर्जित करूं?",
+      "answer_hi": "यदि आपके पास एक प्रो बचत खाता है, तो आप 7 शीर्ष ब्रांडों से सभी डेबिट कार्ड भुगतान और UPI भुगतान पर 1% कैशबैक कमाते हैं। यदि आपने किसी भी रूपे क्रेडिट कार्ड को जुपिटर यूपीआई से जोड़ा है, तो आप हर भुगतान पर 2% कैशबैक कमाते हैं। कैशबैक को गहने के रूप में श्रेय दिया जाता है। 5 गहने = ₹ 1"
+    },
+    {
+      "question": "Are there any charges for UPI transactions?",
+      "answer": "No, UPI payments are free of charge on Jupiter.",
+      "topics": [
+        "Payment"
+      ],
+      "question_hi": "क्या UPI लेनदेन के लिए कोई शुल्क है?",
+      "answer_hi": "नहीं, यूपीआई भुगतान बृहस्पति पर नि: शुल्क हैं।"
+    },
+    {
+      "question": "Is there a transaction limit for UPI payments?",
+      "answer": "Yes, the daily UPI limit is set by your bank and NPCI, which is generally 1 Lakh per day.",
+      "topics": [
+        "Payment"
+      ],
+      "question_hi": "क्या UPI भुगतान के लिए लेनदेन की सीमा है?",
+      "answer_hi": "हां, दैनिक यूपीआई सीमा आपके बैंक और एनपीसीआई द्वारा निर्धारित की जाती है, जो आम तौर पर प्रति दिन ₹ 1 लाख है।"
+    },
+    {
+      "question": "What is Digital Gold on Jupiter?",
+      "answer": "Digital Gold on Jupiter allows you to buy and sell 24K gold online at live market prices starting from as low as 10. It’s 100% digital and secure with no making charges.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "बृहस्पति पर डिजिटल सोना क्या है?",
+      "answer_hi": "जुपिटर पर डिजिटल गोल्ड आपको लाइव बाजार की कीमतों पर ऑनलाइन 24k गोल्ड खरीदने और बेचने की अनुमति देता है, जो कि 10 10 से कम से शुरू होता है। यह 100% डिजिटल है और बिना किसी शुल्क के सुरक्षित है।"
+    },
+    {
+      "question": "How is my Digital Gold stored?",
+      "answer": "Every gram of Digital Gold you purchase is stored as 24K physical Gold in lifetime-free vaults by our trusted partners.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "मेरा डिजिटल सोना कैसे संग्रहीत है?",
+      "answer_hi": "आपके द्वारा खरीदे जाने वाले डिजिटल गोल्ड का प्रत्येक ग्राम हमारे विश्वसनीय भागीदारों द्वारा जीवनकाल मुक्त वाल्टों में 24K भौतिक सोने के रूप में संग्रहीत किया जाता है।"
+    },
+    {
+      "question": "Can I start investing in Gold with just ₹10?",
+      "answer": "Yes, you can purchase 24K Digital Gold with just 10 or more. You can either make a one-time investment or invest regularly with daily, weekly, and monthly SIPs.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "क्या मैं सिर्फ ₹ 10 के साथ सोने में निवेश करना शुरू कर सकता हूं?",
+      "answer_hi": "हां, आप 24k डिजिटल गोल्ड खरीद सकते हैं। आप या तो एक बार का निवेश कर सकते हैं या दैनिक, साप्ताहिक और मासिक एसआईपीएस के साथ नियमित रूप से निवेश कर सकते हैं।"
+    },
+    {
+      "question": "Can I sell my Digital Gold anytime?",
+      "answer": "Yes, you can instantly sell your Digital Gold at live market prices from the Jupiter app.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "क्या मैं अपना डिजिटल सोना कभी भी बेच सकता हूं?",
+      "answer_hi": "हां, आप तुरंत अपने डिजिटल गोल्ड को ज्यूपिटर ऐप से लाइव मार्केट कीमतों पर बेच सकते हैं।"
+    },
+    {
+      "question": "Can I get physical delivery of the gold?",
+      "answer": "Currently, Jupiter offers only digital storage of gold. Physical delivery is not available.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "क्या मुझे सोने की शारीरिक डिलीवरी मिल सकती है?",
+      "answer_hi": "वर्तमान में, बृहस्पति सोने का केवल डिजिटल भंडारण प्रदान करता है। भौतिक वितरण उपलब्ध नहीं है।"
+    },
+    {
+      "question": "How is the price of Digital Gold determined?",
+      "answer": "Prices are updated live and reflect the current market rate of 24K gold with no making charges.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "डिजिटल गोल्ड की कीमत कैसे निर्धारित की जाती है?",
+      "answer_hi": "कीमतों को लाइव अपडेट किया जाता है और बिना किसी शुल्क के 24k सोने की वर्तमान बाजार दर को प्रतिबिंबित किया जाता है।"
+    },
+    {
+      "question": "Why should I invest in Digital Gold?",
+      "answer": "Digital Gold lets you invest in 24K pure gold without worrying about storage or safety. Unlike traditional options, you can start small, track your gold value in real time, and sell it anytime you want. It’s a smart way to grow your savings and with Jupiter, the process is completely digital.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "मुझे डिजिटल गोल्ड में निवेश क्यों करना चाहिए?",
+      "answer_hi": "डिजिटल गोल्ड आपको भंडारण या सुरक्षा के बारे में चिंता किए बिना 24k शुद्ध सोने में निवेश करने देता है। पारंपरिक विकल्पों के विपरीत, आप छोटे से शुरू कर सकते हैं, वास्तविक समय में अपने सोने के मूल्य को ट्रैक कर सकते हैं, और इसे कभी भी बेच सकते हैं। यह आपकी बचत को बढ़ाने का एक स्मार्ट तरीका है और बृहस्पति के साथ, प्रक्रिया पूरी तरह से डिजिटल है।"
+    },
+    {
+      "question": "Can I set up automatic investments in Digital Gold?",
+      "answer": "Yes, you can set up a daily, weekly, or monthly SIP to auto-invest in Digital Gold. You can also set up Magic Spends, a feature exclusively on Jupiter, to auto-invest in Gold every time you spend.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "क्या मैं डिजिटल गोल्ड में स्वचालित निवेश स्थापित कर सकता हूं?",
+      "answer_hi": "हां, आप डिजिटल गोल्ड में ऑटो-इनवेस्ट के लिए एक दैनिक, साप्ताहिक, या मासिक एसआईपी स्थापित कर सकते हैं। आप हर बार खर्च करने के लिए सोने में ऑटो-निवेश करने के लिए, विशेष रूप से बृहस्पति पर विशेष रूप से एक सुविधा, एक सुविधा भी सेट कर सकते हैं।"
+    },
+    {
+      "question": "How do I earn Jewels on Jupiter?",
+      "answer": "You earn Jewels when you spend using Jupiter—whether it’s with UPI, your debit card, or linked credit cards. 5 Jewels = 1 Rupee.",
+      "topics": [
+        "Reward"
+      ],
+      "question_hi": "मैं बृहस्पति पर गहने कैसे कमाऊं?",
+      "answer_hi": "जब आप बृहस्पति का उपयोग करते हैं तो आप गहने कमाते हैं - चाहे वह UPI, आपके डेबिट कार्ड, या लिंक किए गए क्रेडिट कार्ड के साथ हो। 5 ज्वेल्स = 1 रुपया"
+    },
+    {
+      "question": "What can I redeem Jewels for?",
+      "answer": "You can choose from the following loan options: Digital Gold Cash credits Gift vouchers Bill payments Credit card discounts",
+      "topics": [
+        "Reward"
+      ],
+      "question_hi": "मैं किसके लिए ज्वेल्स को भुना सकता हूं?",
+      "answer_hi": "आप निम्नलिखित ऋण विकल्पों में से चुन सकते हैं: डिजिटल गोल्ड कैश क्रेडिट उपहार वाउचर बिल भुगतान क्रेडिट कार्ड छूट"
+    },
+    {
+      "question": "How fast can I redeem Jewels on Jupiter?",
+      "answer": "Yes, you can redeem the Jewels instantly. You can convert them to cash, gold, vouchers or use them to get discounts on bill payments.",
+      "topics": [
+        "Reward"
+      ],
+      "question_hi": "मैं कितनी तेजी से ज्यूपिटर पर गहने भुना सकता हूं?",
+      "answer_hi": "हां, आप तुरंत गहने को भुना सकते हैं। आप उन्हें कैश, गोल्ड, वाउचर में बदल सकते हैं या बिल भुगतान पर छूट प्राप्त करने के लिए उनका उपयोग कर सकते हैं।"
+    },
+    {
+      "question": "Do I get extra rewards with linked accounts or cards?",
+      "answer": "Yes! Linking any RuPay credit card earns you up to 2% cashback on UPI and spends.",
+      "topics": [
+        "Reward"
+      ],
+      "question_hi": "क्या मुझे लिंक किए गए खातों या कार्डों के साथ अतिरिक्त पुरस्कार मिलते हैं?",
+      "answer_hi": "हाँ! उदाहरण के लिए: प्रो सेविंग्स अकाउंट उपयोगकर्ताओं को 1% कैशबैक एज सीएसबी बैंक रुपाय कार्ड मिलते हैं, उपयोगकर्ताओं को 2% कैशबैक मिलता है जो किसी भी रुपाय क्रेडिट कार्ड से जुड़ता है"
+    },
+    {
+      "question": "Do the earned Jewels expire?",
+      "answer": "Your Jewels are safe and redeemable directly on the Jupiter app. Expiry terms, if any, are clearly shown under your rewards dashboard.",
+      "topics": [
+        "Reward"
+      ],
+      "question_hi": "क्या अर्जित गहने समाप्त हो जाते हैं?",
+      "answer_hi": "आपके गहने ज्यूपिटर ऐप पर सीधे सुरक्षित और रिडीम करने योग्य हैं। समाप्ति की शर्तें, यदि कोई हो, स्पष्ट रूप से आपके पुरस्कार डैशबोर्ड के तहत दिखाए गए हैं।"
+    },
+    {
+      "question": "How can I apply for the Edge+ CSB Bank RuPay Credit Card?",
+      "answer": "You can check your eligibility and credit limit for the credit card instantly. To apply for the card, download the Jupiter app and complete your application anytime. It’s 100% digital with no paperwork!",
+      "topics": [
+        "Credit Card",
+        "Upi"
+      ],
+      "question_hi": "मैं EDGE+ CSB बैंक Rupay क्रेडिट कार्ड के लिए कैसे आवेदन कर सकता हूं?",
+      "answer_hi": "आप तुरंत क्रेडिट कार्ड के लिए अपनी पात्रता और क्रेडिट सीमा की जांच कर सकते हैं। कार्ड के लिए आवेदन करने के लिए, बृहस्पति ऐप डाउनलोड करें और कभी भी अपना एप्लिकेशन पूरा करें। यह बिना कागजी कार्रवाई के 100% डिजिटल है!"
+    },
+    {
+      "question": "What's the maximum cashback I can earn with Edge+?",
+      "answer": "There is no maximum amount of cashback which can be earned with Edge+, there are limits on accelerated cashback for categories.",
+      "topics": [
+        "Credit Card",
+        "Upi"
+      ],
+      "question_hi": "एज+के साथ मैं अधिकतम कैशबैक क्या कमा सकता हूं?",
+      "answer_hi": "कैशबैक की कोई अधिकतम सीमा नहीं है जिसे एज+के साथ अर्जित किया जा सकता है, श्रेणियों के लिए त्वरित कैशबैक पर सीमाएं हैं।"
+    },
+    {
+      "question": "What is the maximum cashback I can earn for each category?",
+      "answer": "The maximum cashback applicable under each category is: 10% cashback - 1,500 per billing cycle (merchant limit of 500) 5% cashback - 1,000 per billing cycle 1% cashback - No Limit",
+      "topics": [
+        "Credit Card",
+        "Upi"
+      ],
+      "question_hi": "प्रत्येक श्रेणी के लिए मैं जो अधिकतम कैशबैक कमा सकता हूं वह क्या है?",
+      "answer_hi": "प्रत्येक श्रेणी के तहत लागू अधिकतम कैशबैक है: 10% कैशबैक - of 1,500 प्रति बिलिंग चक्र (मर्चेंट लिमिट ऑफ़ मर्चेंट लिमिट ऑफ) 500 कैशबैक - of 1,000 प्रति बिलिंग साइकिल 1% कैशबैक - कोई सीमा नहीं"
+    },
+    {
+      "question": "How is cashback credited?",
+      "answer": "The cashback amount is credited to your account instantly in the form of Jewels. 5 Jewels = 1 and you can redeem Jewels as cash, gift cards, Digital Gold, and for bill payments.",
+      "topics": [
+        "Credit Card",
+        "Upi"
+      ],
+      "question_hi": "कैशबैक का श्रेय कैसे दिया जाता है?",
+      "answer_hi": "कैशबैक राशि को आपके खाते में तुरंत गहने के रूप में जमा किया जाता है। 5 ज्वेल्स =। 1 और आप ज्वेल्स को कैश, गिफ्ट कार्ड, डिजिटल गोल्ड और बिल भुगतान के लिए रिडीम कर सकते हैं।"
+    },
+    {
+      "question": "Which brands does Edge+ offer cashback on?",
+      "answer": "10% cashback on shopping: Amazon, Flipkart, Myntra, Ajio, Zara, Nykaa, Croma, Reliance Trends, Tata Cliq, Reliance Digital 5% cashback on travel: MakeMyTrip, EaseMyTrip, Yatra, Cleartrip 1% cashback: On all other offline & online eligible spends. Please note that we display third-party brand logos only to indicate where cashback is applicable, and it does not amount to any endorsement by either party. All trademarks belong to their respective owners. The brands are subject to change.",
+      "topics": [
+        "Credit Card",
+        "Upi"
+      ],
+      "question_hi": "एज+ किन ब्रांडों पर कैशबैक की पेशकश करता है?",
+      "answer_hi": "शॉपिंग पर 10% कैशबैक: अमेज़ॅन, फ्लिपकार्ट, मायनाट्रा, अजियो, ज़ारा, NYKAA, क्रोमा, रिलायंस ट्रेंड्स, टाटा क्लीक, रिलायंस डिजिटल 5% कैशबैक ऑन ट्रैवल: MakemyTrip, EasemyTrip, Yatra, ClearTrip 1% कैशबैक: अन्य ऑल ऑफ़लाइन और ऑनलाइन पात्र खर्च। कृपया ध्यान दें कि हम तृतीय-पक्ष ब्रांड लोगो को केवल यह बताने के लिए प्रदर्शित करते हैं कि कैशबैक कहां लागू है, और यह किसी भी पार्टी द्वारा किसी भी समर्थन के लिए राशि नहीं है। सभी ट्रेडमार्क्स का संबंध उनके संबंधित मालिकों से है। ब्रांड परिवर्तन के अधीन हैं।"
+    },
+    {
+      "question": "Are there any fees for the Edge+ card?",
+      "answer": "There is only a one-time joining fee of 499+GST for the card. You also get a Fraud Protection Plan by OneAssist which includes an Amazon Prime Membership worth 1499. The card is lifetime free with no annual fee.",
+      "topics": [
+        "Credit Card",
+        "Upi"
+      ],
+      "question_hi": "क्या एज+ कार्ड के लिए कोई फीस है?",
+      "answer_hi": "कार्ड के लिए ₹ 499+GST का केवल एक बार शामिल होने वाला शुल्क है। आपको Oneassist द्वारा एक धोखाधड़ी संरक्षण योजना भी मिलती है जिसमें Amazon Prime सदस्यता शामिल है। कार्ड लाइफटाइम फ्री है जिसमें कोई वार्षिक शुल्क नहीं है।"
+    },
+    {
+      "question": "What types of bills can I pay on Jupiter?",
+      "answer": "You can pay your credit card bills, electricity, DTH, broadband, water, gas, mobile prepaid, and more—all in one place.",
+      "topics": [
+        "Bill"
+      ],
+      "question_hi": "मैं बृहस्पति पर किस प्रकार के बिलों का भुगतान कर सकता हूं?",
+      "answer_hi": "आप अपने क्रेडिट कार्ड बिल, बिजली, डीटीएच, ब्रॉडबैंड, पानी, गैस, मोबाइल प्रीपेड, और बहुत कुछ का भुगतान कर सकते हैं।"
+    },
+    {
+      "question": "What payment modes can I use to pay bills on Jupiter?",
+      "answer": "You can pay bills through bank transfers linked to your Federal Bank Savings Account, UPI, or your RuPay Credit Cards.",
+      "topics": [
+        "Bill"
+      ],
+      "question_hi": "बृहस्पति पर बिलों का भुगतान करने के लिए मैं किन भुगतान मोड का उपयोग कर सकता हूं?",
+      "answer_hi": "आप अपने फेडरल बैंक सेविंग अकाउंट, UPI या अपने Rupay क्रेडिट कार्ड से जुड़े बैंक ट्रांसफर के माध्यम से बिल का भुगतान कर सकते हैं।"
+    },
+    {
+      "question": "Do I get rewards for bill payments?",
+      "answer": "Yes! You earn Jewels for every eligible bill and recharge made with Jupiter.",
+      "topics": [
+        "Bill"
+      ],
+      "question_hi": "क्या मुझे बिल भुगतान के लिए पुरस्कार मिलते हैं?",
+      "answer_hi": "हाँ! आप हर योग्य बिल के लिए गहने अर्जित करते हैं और बृहस्पति के साथ किए गए रिचार्ज करते हैं।"
+    },
+    {
+      "question": "What are Jewels and how do they work?",
+      "answer": "Jewels are credits you earn when you make eligible payments with Jupiter. You can redeem them in cash for instant discounts on future bill payments.",
+      "topics": [
+        "Bill"
+      ],
+      "question_hi": "गहने क्या हैं और वे कैसे काम करते हैं?",
+      "answer_hi": "जब आप बृहस्पति के साथ पात्र भुगतान करते हैं तो गहने क्रेडिट होते हैं। आप भविष्य के बिल भुगतान पर त्वरित छूट के लिए उन्हें नकद में भुना सकते हैं। पुरस्कार नीति के अनुसार ₹ 1 = 5 अंक * * * *"
+    },
+    {
+      "question": "How do I activate Autopay?",
+      "answer": "To set up Autopay for bills & recharges, use your Jupiter UPI ID as a default payment method on the respective merchant app or website.",
+      "topics": [
+        "Bill"
+      ],
+      "question_hi": "मैं ऑटोपे को कैसे सक्रिय करूं?",
+      "answer_hi": "बिल और रिचार्ज के लिए ऑटोपे सेट करने के लिए, संबंधित मर्चेंट ऐप या वेबसाइट पर डिफ़ॉल्ट भुगतान विधि के रूप में अपने बृहस्पति यूपीआई आईडी का उपयोग करें।"
+    },
+    {
+      "question": "Do I need to upload any documents or enter bill details manually each time?",
+      "answer": "No paperwork needed! Just link your billing merchant once, and your dues automatically in the future.",
+      "topics": [
+        "Bill"
+      ],
+      "question_hi": "क्या मुझे हर बार मैन्युअल रूप से कोई दस्तावेज़ अपलोड करने या बिल विवरण दर्ज करने की आवश्यकता है?",
+      "answer_hi": "कोई कागजी कार्रवाई की जरूरत नहीं है! बस एक बार अपने बिलिंग व्यापारी को लिंक करें, और भविष्य में अपने बकाया स्वचालित रूप से।"
+    },
+    {
+      "question": "Can I track my past payments?",
+      "answer": "Yes, your entire payment history is available under the ‘Bills & Recharges’ section in the app.",
+      "topics": [
+        "Bill"
+      ],
+      "question_hi": "क्या मैं अपने पिछले भुगतान को ट्रैक कर सकता हूं?",
+      "answer_hi": "हां, आपका संपूर्ण भुगतान इतिहास ऐप में 'बिल्स एंड रिचार्ज' सेक्शन के तहत उपलब्ध है।"
+    },
+    {
+      "question": "What is a loan against mutual funds?",
+      "answer": "A Loan Against Mutual Funds lets you borrow money by pledging your Mutual Funds. On Jupiter, you can get a Loan Against Mutual Funds of up to 2 Crore.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "म्यूचुअल फंड के खिलाफ ऋण क्या है?",
+      "answer_hi": "म्यूचुअल फंड के खिलाफ एक ऋण आपको अपने म्यूचुअल फंडों को प्रतिज्ञा करके पैसे उधार लेने देता है। बृहस्पति पर, आप। 2 करोड़ तक के म्यूचुअल फंड के खिलाफ ऋण प्राप्त कर सकते हैं।"
+    },
+    {
+      "question": "How much money can I borrow?",
+      "answer": "Your loan limit will depend on the amount and type of Mutual Funds in your portfolio.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "मैं कितना पैसा उधार ले सकता हूं?",
+      "answer_hi": "आपकी ऋण सीमा आपके पोर्टफोलियो में म्यूचुअल फंड की राशि और प्रकार पर निर्भर करेगी।"
+    },
+    {
+      "question": "Can I choose any date for my monthly loan repayment?",
+      "answer": "You can repay the principal amount anytime within 36 months and the interest in 12 EMIs.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "क्या मैं अपने मासिक ऋण चुकौती के लिए कोई तारीख चुन सकता हूं?",
+      "answer_hi": "आप 36 महीनों के भीतर कभी भी मूल राशि और 12 ईएमआई में ब्याज चुका सकते हैं"
+    },
+    {
+      "question": "Do I need to pay interest on the whole amount I am eligible for?",
+      "answer": "No, you pay monthly interest only on the withdrawn amount out of the total credit limit given to you.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "क्या मुझे उस पूरी राशि पर ब्याज का भुगतान करने की आवश्यकता है जिसके लिए मैं पात्र हूं?",
+      "answer_hi": "नहीं, आप केवल आपके द्वारा दी गई कुल क्रेडिट सीमा से निकाली गई राशि पर मासिक ब्याज का भुगतान करते हैं।"
+    },
+    {
+      "question": "What is lien marking/pledging of Mutual Funds?",
+      "answer": "When you take a Loan Against Mutual Funds, your funds will be lien marked. This means, the lender has the right to hold your units and sell them in case the loan isn't repaid. However, your funds will continue earning returns and will be redeemable once the loan is fully repaid.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "म्यूचुअल फंड का ग्रहणाधिकार चिह्नित/प्रतिज्ञा क्या है?",
+      "answer_hi": "जब आप म्यूचुअल फंड के खिलाफ ऋण लेते हैं, तो आपके फंड को ग्रहणाधिकार चिह्नित किया जाएगा। इसका मतलब है, ऋणदाता को आपकी इकाइयों को पकड़ने और ऋण चुकाने की स्थिति में उन्हें बेचने का अधिकार है। हालांकि, आपके फंड रिटर्न अर्जित करना जारी रखेंगे और ऋण पूरी तरह से चुकाने के बाद इसे फिर से तैयार किया जाएगा।"
+    },
+    {
+      "question": "Which mutual fund schemes are accepted or can be pledged to take loans?",
+      "answer": "Your loan limit can be up to 75% of the Net Asset Value (NAV) of your Debt Mutual Funds and 45% of the NAV of Equity Mutual Funds. For example, if you have invested 3 Lakh in Debt Mutual Funds and 1 Lakh in Equity Mutual Funds, your available loan limit will be(75% of 3 Lakhs) + (45% of 1 Lakh) = 2.70 Lakh.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "कौन सी म्यूचुअल फंड योजनाओं को स्वीकार किया जाता है या उन्हें ऋण लेने का वादा किया जा सकता है?",
+      "answer_hi": "आपकी ऋण सीमा आपके ऋण म्यूचुअल फंड के नेट एसेट वैल्यू (NAV) के 75% तक और इक्विटी म्यूचुअल फंड के 45% तक हो सकती है। उदाहरण के लिए, यदि आपने ऋण म्यूचुअल फंड में and 3 लाख और इक्विटी म्यूचुअल फंड में and 1 लाख का निवेश किया है, तो आपकी उपलब्ध ऋण सीमा (75% ₹ 3 लाख का 75%) + (₹ 1 लाख का 45%) = ₹ 2.70 लाख होगी।"
+    },
+    {
+      "question": "How do I check my limit?",
+      "answer": "You can check your limit on the Jupiter app.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "मैं अपनी सीमा की जांच कैसे करूं?",
+      "answer_hi": "आप बृहस्पति ऐप पर अपनी सीमा देख सकते हैं"
+    },
+    {
+      "question": "Can I pledge any Mutual Fund?",
+      "answer": "Yes, you can pledge any eligible Mutual Fund. You can also choose the number of units you want to pledge.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "क्या मैं किसी म्यूचुअल फंड की प्रतिज्ञा कर सकता हूं?",
+      "answer_hi": "हां, आप किसी भी योग्य म्यूचुअल फंड की प्रतिज्ञा कर सकते हैं। आप उन इकाइयों की संख्या भी चुन सकते हैं जिन्हें आप प्रतिज्ञा करना चाहते हैं।"
+    },
+    {
+      "question": "When can I redeem the Mutual Funds I have pledged?",
+      "answer": "Your Mutual Funds will be redeemable once your loan is fully repaid.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "मैं उन म्यूचुअल फंड को कब भुना सकता हूं जिन्हें मैंने वचन दिया है?",
+      "answer_hi": "आपके ऋण को पूरी तरह से चुकाने के बाद आपका म्यूचुअल फंड रिडीम करने योग्य होगा"
+    },
+    {
+      "question": "What is the tenure of the loan against mutual funds?",
+      "answer": "You can repay the principal amount in up to 36 months and the interest in 12 EMIs.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "म्यूचुअल फंड के खिलाफ ऋण का कार्यकाल क्या है?",
+      "answer_hi": "आप 36 महीने तक की मूल राशि और 12 ईएमआई में ब्याज चुका सकते हैं"
+    },
+    {
+      "question": "What is the credit limit and how is it calculated?",
+      "answer": "Your credit limit is calculated based on the value of your Mutual Funds portfolio Link to doc: LAMF Landing Page & SEO Requirements",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "क्रेडिट सीमा क्या है और इसकी गणना कैसे की जाती है?",
+      "answer_hi": "आपकी क्रेडिट सीमा की गणना आपके म्यूचुअल फंड्स पोर्टफोलियो लिंक के मूल्य के आधार पर की जाती है।"
+    },
+    {
+      "question": "What can I do in the Money tab on Jupiter?",
+      "answer": "You can track your income, expenses, top categories, upcoming bills, and get smart insights on where your money goes — all in one place.",
+      "topics": [
+        "Money"
+      ],
+      "question_hi": "मैं बृहस्पति पर मनी टैब में क्या कर सकता हूं?",
+      "answer_hi": "आप अपनी आय, खर्च, शीर्ष श्रेणियों, आगामी बिलों को ट्रैक कर सकते हैं, और आपके पैसे कहाँ जाते हैं, इस पर स्मार्ट अंतर्दृष्टि प्राप्त कर सकते हैं - सभी एक ही स्थान पर।"
+    },
+    {
+      "question": "How does Jupiter categorize my spending?",
+      "answer": "Jupiter auto-categorizes your transactions (like groceries, food, shopping, etc.) using smart tags so you can understand your spending patterns at a glance.",
+      "topics": [
+        "Money"
+      ],
+      "question_hi": "बृहस्पति मेरे खर्च को कैसे वर्गीकृत करता है?",
+      "answer_hi": "बृहस्पति ऑटो अपने लेनदेन (जैसे किराने का सामान, भोजन, खरीदारी, आदि) को स्मार्ट टैग का उपयोग करके वर्गीकृत करता है ताकि आप अपने खर्च के पैटर्न को एक नज़र में समझ सकें।"
+    },
+    {
+      "question": "Can I track my credit card expenses in the Money tab?",
+      "answer": "Yes, you can link your credit cards and view all your spends, dues, and statements in one place, even if they’re from other banks.",
+      "topics": [
+        "Money"
+      ],
+      "question_hi": "क्या मैं मनी टैब में अपने क्रेडिट कार्ड के खर्च को ट्रैक कर सकता हूं?",
+      "answer_hi": "हां, आप अपने क्रेडिट कार्ड को लिंक कर सकते हैं और अपने सभी खर्च, बकाया और बयानों को एक स्थान पर देख सकते हैं, भले ही वे अन्य बैंकों से हों।"
+    },
+    {
+      "question": "What is Account Aggregator and how does it work?",
+      "answer": "Account Aggregator (AA) is a secure framework regulated by the RBI that lets you link and track balances and payments from all your bank accounts. Rest assured, you stay in control and choose what to share and for how long.",
+      "topics": [
+        "Money"
+      ],
+      "question_hi": "खाता एग्रीगेटर क्या है और यह कैसे काम करता है?",
+      "answer_hi": "खाता एग्रीगेटर (एए) आरबीआई द्वारा विनियमित एक सुरक्षित ढांचा है जो आपको आपके सभी बैंक खातों से शेष राशि और भुगतान को लिंक और ट्रैक करने देता है। निश्चिंत रहें, आप नियंत्रण में बने रहें और चुनें कि क्या साझा करें और कब तक।"
+    },
+    {
+      "question": "Is it safe to link my accounts through Account Aggregator?",
+      "answer": "Yes, it’s completely safe. Jupiter only accesses your data with your consent via licensed Account Aggregators like Finvu, and cannot access it without your permission.",
+      "topics": [
+        "Money"
+      ],
+      "question_hi": "क्या खाता एग्रीगेटर के माध्यम से मेरे खातों को जोड़ना सुरक्षित है?",
+      "answer_hi": "हां, यह पूरी तरह से सुरक्षित है। बृहस्पति केवल फिनवु जैसे लाइसेंस प्राप्त खाता एग्रीगेटर्स के माध्यम से आपकी सहमति से आपके डेटा तक पहुंचता है, और आपकी अनुमति के बिना इसे एक्सेस नहीं कर सकता है।"
+    },
+    {
+      "question": "Can I set Budgets in the Money tab?",
+      "answer": "Yes, you can set a monthly Budgets to control overspending and manage your money better every month. Jupiter lets you know when you’re about to cross your monthly Budget so you can plan your expenses better!",
+      "topics": [
+        "Money"
+      ],
+      "question_hi": "क्या मैं मनी टैब में बजट निर्धारित कर सकता हूं?",
+      "answer_hi": "हां, आप ओवरस्पीडिंग को नियंत्रित करने के लिए एक मासिक बजट निर्धारित कर सकते हैं और हर महीने अपने पैसे को बेहतर ढंग से प्रबंधित कर सकते हैं। बृहस्पति आपको पता है कि आप अपने मासिक बजट को पार करने के बारे में हैं ताकि आप अपने खर्चों की बेहतर योजना बना सकें!"
+    },
+    {
+      "question": "What is Net Worth in Jupiter and how is it calculated?",
+      "answer": "Your Net Worth on Jupiter is the difference between what you own and what you owe. It includes all your linked bank balances, investments (like FDs or mutual funds), and credit card dues or loans. When you link external accounts using Account Aggregator, we give you a real-time, 360° view of your true net worth in one simple number.",
+      "topics": [
+        "Money"
+      ],
+      "question_hi": "बृहस्पति में नेट वर्थ क्या है और इसकी गणना कैसे की जाती है?",
+      "answer_hi": "बृहस्पति पर आपका निवल मूल्य आपके पास क्या है और आपके द्वारा बकाया क्या है, इसके बीच का अंतर है। इसमें आपके सभी लिंक किए गए बैंक बैलेंस, निवेश (जैसे एफडी या म्यूचुअल फंड), और क्रेडिट कार्ड बकाया या ऋण शामिल हैं। जब आप खाता एग्रीगेटर का उपयोग करके बाहरी खातों को लिंक करते हैं, तो हम आपको एक साधारण संख्या में आपके वास्तविक नेट वर्थ का एक वास्तविक समय, 360 ° दृश्य देते हैं।"
+    },
+    {
+      "question": "How is this Salary account different then?",
+      "answer": "Our Salary Account can also be opened by an employee and does not necessarily need an employer to open one for you.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "यह वेतन खाता अलग कैसे है?",
+      "answer_hi": "हमारे वेतन खाते को एक कर्मचारी द्वारा भी खोला जा सकता है और जरूरी नहीं कि आपके लिए एक खोलने के लिए नियोक्ता की आवश्यकता हो।"
+    },
+    {
+      "question": "Why should I switch to Salary account?",
+      "answer": "It’s your Salary Account with extra benefits. Get the most out of your salary. Salary account is an upgraded version of the Basic account. Receive your monthly salary in your new Salary Account to earn maximum rewards on Jupiter, free credit & debit card, Mini Loans starting from 0% interest.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "मुझे वेतन खाते में क्यों बदलना चाहिए?",
+      "answer_hi": "यह अतिरिक्त लाभ के साथ आपका वेतन खाता है। अपने वेतन से सबसे अधिक प्राप्त करें। वेतन खाता मूल खाते का एक उन्नत संस्करण है। बृहस्पति, मुफ्त क्रेडिट और डेबिट कार्ड, 0% ब्याज से शुरू होने वाले मिनी ऋण पर अधिकतम पुरस्कार अर्जित करने के लिए अपने नए वेतन खाते में अपना मासिक वेतन प्राप्त करें।"
+    },
+    {
+      "question": "How do I open a Salary account?",
+      "answer": "To open a Salary account, follow these easy steps: 1. Download the Jupiter app and create your account 2. Complete your video verification / full KYC 3. Submit your company's name and verify your work email address 4. Share your new account details with HR and make sure to get your next salary in your new Salary Account within 60 days.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "मैं एक वेतन खाता कैसे खोलूं?",
+      "answer_hi": "एक वेतन खाता खोलने के लिए, इन आसान चरणों का पालन करें: 1। बृहस्पति ऐप डाउनलोड करें और अपना खाता 2 बनाएं। अपना वीडियो सत्यापन / पूर्ण KYC 3 को पूरा करें। अपनी कंपनी का नाम सबमिट करें और अपने काम के ईमेल पते को सत्यापित करें। अपने नए खाते के विवरण को एचआर के साथ साझा करें और 60 दिनों के भीतर अपने नए वेतन खाते में अपना अगला वेतन प्राप्त करना सुनिश्चित करें। इतना ही! एक बार जब आपका वेतन जमा हो जाता है, तो आपको स्वचालित रूप से एक वेतन खाते में अपग्रेड किया जाएगा।"
+    },
+    {
+      "question": "already have a Savings Account on the Jupiter app. How do I upgrade to a Salary account?",
+      "answer": "To upgrade to a Salary account, please go to 'Settings' on the Jupiter app and follow 3 simple steps. Currently open to select few.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "पहले से ही बृहस्पति ऐप पर बचत खाता है। मैं एक वेतन खाते में कैसे अपग्रेड करूं?",
+      "answer_hi": "वेतन खाते में अपग्रेड करने के लिए, कृपया बृहस्पति ऐप पर 'सेटिंग्स' पर जाएं और 3 सरल चरणों का पालन करें। वर्तमान में कुछ का चयन करने के लिए खुला है।"
+    },
+    {
+      "question": "Who all can open a Salary account on Jupiter?",
+      "answer": "To open a Salary account, please ensure that your in-hand salary is more than 20,000. However, this is negotiable for teams. Please connect with us to learn more about the Salary account.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "सभी ज्यूपिटर पर एक वेतन खाता खोल सकते हैं?",
+      "answer_hi": "वेतन खाता खोलने के लिए, कृपया सुनिश्चित करें कि आपका हाथ का वेतन अधिक ₹ 20,000 है। हालांकि, यह टीमों के लिए परक्राम्य है। वेतन खाते के बारे में अधिक जानने के लिए कृपया हमारे साथ जुड़ें।"
+    },
+    {
+      "question": "How much time does it take to open a Salary account?",
+      "answer": "It takes only 3 minutes to complete all the steps to open a Salary account.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "वेतन खाता खोलने में कितना समय लगता है?",
+      "answer_hi": "वेतन खाता खोलने के लिए सभी चरणों को पूरा करने में केवल 3 मिनट लगते हैं।"
+    },
+    {
+      "question": "Can I change my already existing salary account? How?",
+      "answer": "Create a new account on the app, submit your new bank account details with your HR to receive further salaries in that account and turn yourself into a Salary Account user.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या मैं अपना पहले से मौजूद वेतन खाता बदल सकता हूं? कैसे?",
+      "answer_hi": "ऐप पर एक नया खाता बनाएं, उस खाते में आगे वेतन प्राप्त करने के लिए अपने नए बैंक खाते के विवरण को अपने एचआर के साथ सबमिट करें और अपने आप को एक वेतन खाता उपयोगकर्ता में बदल दें"
+    },
+    {
+      "question": "Are there any charges for opening a Salary account?",
+      "answer": "Opening a Salary Account on Jupiter is completely free. There are also no charges for UPI, NEFT, and RTGS transactions.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "क्या वेतन खाता खोलने के लिए कोई शुल्क है?",
+      "answer_hi": "बृहस्पति पर एक वेतन खाता खोलना पूरी तरह से स्वतंत्र है। UPI, NEFT और RTGS लेनदेन के लिए भी कोई शुल्क नहीं है।"
+    },
+    {
+      "question": "What is Mini-Loan?",
+      "answer": "By opening a Salary account, you can instantly withdraw your partial salary before salary day with no interest charges.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "मिनी-लोन क्या है?",
+      "answer_hi": "एक वेतन खाता खोलकर, आप बिना किसी ब्याज शुल्क के वेतन दिवस से पहले अपने आंशिक वेतन को तुरंत वापस ले सकते हैं।"
+    },
+    {
+      "question": "I'm a non-salaried individual. How do I upgrade to Salary account?",
+      "answer": "Keep an eye out – we'll bring the benefits of Salary account to freelancers & other non-salaried individuals soon.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "मैं एक गैर-सलामत व्यक्ति हूं। मैं वेतन खाते में कैसे अपग्रेड करूं?",
+      "answer_hi": "नज़र रखें-हम जल्द ही फ्रीलांसरों और अन्य गैर-सलामिद व्यक्तियों को वेतन खाते के लाभ लाएंगे।"
+    },
+    {
+      "question": "Which documents are required for opening a Salary account?",
+      "answer": "Your Aadhaar card linked with your phone number and PAN card are required to open a Salary account.",
+      "topics": [
+        "Account"
+      ],
+      "question_hi": "वेतन खाता खोलने के लिए किन दस्तावेजों की आवश्यकता है?",
+      "answer_hi": "आपके फोन नंबर और पैन कार्ड से जुड़े आपके आधार कार्ड को वेतन खाता खोलने की आवश्यकता होती है।"
+    },
+    {
+      "question": "What types of loans can I get on Jupiter?",
+      "answer": "Personal Loan - Up to 5,00,000 Mini Loan - Up to 1,00,000 Loan against Mutual Funds - Up to 50,00,000",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "बृहस्पति पर मुझे किस प्रकार के ऋण मिल सकते हैं?",
+      "answer_hi": "आप निम्नलिखित ऋण विकल्पों में से चुन सकते हैं: व्यक्तिगत ऋण - of 5,00,000 मिनी ऋण तक - म्यूचुअल फंड के खिलाफ of 1,00,000 ऋण तक - ₹ 50,00,000 तक"
+    },
+    {
+      "question": "Who can apply for a Personal Loan on Jupiter?",
+      "answer": "To apply for a Personal Loan, you must: Be an Indian resident Be 21 to 60 years old Be either salaried, business owner, or self-employed",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "बृहस्पति पर व्यक्तिगत ऋण के लिए कौन आवेदन कर सकता है?",
+      "answer_hi": "एक व्यक्तिगत ऋण के लिए आवेदन करने के लिए, आपको चाहिए: एक भारतीय निवासी 21 से 60 साल का होना चाहिए"
+    },
+    {
+      "question": "What are the interest rates applicable on loans with Jupiter?",
+      "answer": "Personal Loans start at 1.33% per month Mini Loans have 0% interest (If repaid in 45 days) Loans against Mutual Funds start at 10.5% per annum",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "बृहस्पति के साथ ऋण पर क्या ब्याज दरें लागू हैं?",
+      "answer_hi": "व्यक्तिगत ऋण 1.33% प्रति माह से शुरू होता है"
+    },
+    {
+      "question": "Is the loan application process fully digital?",
+      "answer": "Yes, the entire process, from checking eligibility to receiving funds, is 100% digital on the Jupiter app.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "क्या ऋण आवेदन प्रक्रिया पूरी तरह से डिजिटल है?",
+      "answer_hi": "हां, पूरी प्रक्रिया, पात्रता की जांच करने से लेकर फंड प्राप्त करने तक, बृहस्पति ऐप पर 100% डिजिटल है।"
+    },
+    {
+      "question": "How do I apply for a loan on Jupiter?",
+      "answer": "Check your eligibility Select your preferred loan option Confirm the loan details Get money instantly in your account",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "मैं बृहस्पति पर ऋण के लिए कैसे आवेदन करूं?",
+      "answer_hi": "अपनी पात्रता की जाँच करें अपने पसंदीदा ऋण विकल्प का चयन करें ऋण विवरण की पुष्टि करें कि आपके खाते में तुरंत पैसे प्राप्त करें"
+    },
+    {
+      "question": "Will I get reminders for my EMI payments?",
+      "answer": "Yes, Jupiter sends timely EMI reminders so you never miss a due date.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "क्या मुझे अपने ईएमआई भुगतान के लिए अनुस्मारक मिलेंगे?",
+      "answer_hi": "हां, बृहस्पति समय पर ईएमआई रिमाइंडर भेजता है ताकि आप कभी भी एक नियत तारीख को याद न करें।"
+    },
+    {
+      "question": "Is there any support if I face issues?",
+      "answer": "Yes, you get 24x7 support from our team via the Jupiter app.",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "अगर मैं मुद्दों का सामना करता हूं तो क्या कोई समर्थन है?",
+      "answer_hi": "हां, आपको ज्यूपिटर ऐप के माध्यम से हमारी टीम से 24x7 समर्थन मिलता है।"
+    },
+    {
+      "question": "What can I use my loan for?",
+      "answer": "The loans are flexible and can be used for any purpose, including: Laptop or phone purchase Medical expenses Travel, wedding, or home renovation Debt consolidation or emergencies",
+      "topics": [
+        "Loan"
+      ],
+      "question_hi": "मैं अपने ऋण का उपयोग किस लिए कर सकता हूं?",
+      "answer_hi": "ऋण लचीले हैं और किसी भी उद्देश्य के लिए उपयोग किए जा सकते हैं, जिनमें शामिल हैं: लैपटॉप या फोन खरीद चिकित्सा खर्च यात्रा, शादी, या घर का नवीनीकरण ऋण समेकन या आपात स्थिति"
+    },
+    {
+      "question": "Am I eligible to invest on Jupiter?",
+      "answer": "We're currently open to folks who have Mutual Fund investment accounts already. If you've invested in Mutual Funds in India, or have signed up to invest on another platform before, you're eligible! Go ahead and sign up on the Jupiter app to get started. In a few weeks, everyone else will also be able to invest on Jupiter — hang in there, and watch this space for updates.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "क्या मैं बृहस्पति पर निवेश करने के लिए पात्र हूं?",
+      "answer_hi": "वर्तमान में हम उन लोगों के लिए खुले हैं जिनके पास पहले से ही म्यूचुअल फंड निवेश खाते हैं। यदि आपने भारत में म्यूचुअल फंड में निवेश किया है, या पहले किसी अन्य प्लेटफ़ॉर्म पर निवेश करने के लिए साइन अप किया है, तो आप पात्र हैं! आगे बढ़ें और आरंभ करने के लिए बृहस्पति ऐप पर साइन अप करें। कुछ हफ्तों में, बाकी सभी भी बृहस्पति पर निवेश करने में सक्षम होंगे - वहां लटकाएं, और अपडेट के लिए इस स्थान को देखें"
+    },
+    {
+      "question": "How do I pay less and earn more using the Jupiter App?",
+      "answer": "On Jupiter, you pay less and earn more on your investments because: Jupiter doesn’t charge any hidden commissions of 1.5% over and above your investment amount like other regular funds. Jupiter doesn’t charge Penalties of up to Rs 750 that other banks charge in case you miss a SIP because of insufficient balance in your account.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "मैं कम भुगतान कैसे करूं और बृहस्पति ऐप का उपयोग करके अधिक कमाऊं?",
+      "answer_hi": "बृहस्पति पर, आप कम भुगतान करते हैं और अपने निवेश पर अधिक कमाते हैं क्योंकि: बृहस्पति अन्य नियमित फंडों की तरह आपके निवेश राशि से अधिक और ऊपर 1.5% के किसी भी छिपे हुए कमीशन को चार्ज नहीं करता है। बृहस्पति 750 रुपये तक का दंड नहीं देता है कि अन्य बैंक आपके खाते में अपर्याप्त शेष के कारण एसआईपी को याद करते हैं।"
+    },
+    {
+      "question": "What’s the difference between a No-Penalty SIP and a Normal SIP?",
+      "answer": "In case you miss a SIP because of insufficient balance in your account, your bank charges you 250–750 as Penalty for that missed SIP. Jupiter just smartly skips your SIP! So, there are no Penalty charges.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "नो-पेनल्टी एसआईपी और एक सामान्य एसआईपी के बीच क्या अंतर है?",
+      "answer_hi": "यदि आप अपने खाते में अपर्याप्त संतुलन के कारण एक एसआईपी को याद करते हैं, तो आपका बैंक आपसे ₹ 250- that 750 को उस मिस्ड एसआईपी के लिए जुर्माना के रूप में चार्ज करता है। बृहस्पति बस चालाकी से अपने घूंट को छोड़ देता है! इसलिए, कोई जुर्माना शुल्क नहीं हैं"
+    },
+    {
+      "question": "What all Mutual Funds does Jupiter have?",
+      "answer": "Jupiter has 1000+ Mutual Funds from 39 major AMCs across India. Jupiter only provides growth Direct Mutual Funds which are the best commission-free funds in India.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "बृहस्पति के पास सभी म्यूचुअल फंड क्या हैं?",
+      "answer_hi": "बृहस्पति के पास पूरे भारत में 39 प्रमुख एएमसी से 1000+ म्यूचुअल फंड हैं। बृहस्पति केवल विकास प्रत्यक्ष म्यूचुअल फंड प्रदान करता है जो भारत में सबसे अच्छा कमीशन-मुक्त धन है"
+    },
+    {
+      "question": "What are Mutual Funds?",
+      "answer": "Mutual fund is an investment vehicle that brings together money from many people like you and invests it in stocks, bonds or other assets. Example: ICICI Prudential Technology Fund invests your money, majorly in high growth technology companies like Infosys, Wipro, HCL Technologies,etc.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "म्यूचुअल फंड क्या हैं?",
+      "answer_hi": "म्यूचुअल फंड एक निवेश वाहन है जो आपके जैसे कई लोगों से पैसे लाता है और इसे स्टॉक, बॉन्ड या अन्य परिसंपत्तियों में निवेश करता है। उदाहरण: ICICI Prudential Technology Fund आपके पैसे का निवेश करता है, प्रमुख रूप से इन्फोसिस, विप्रो, एचसीएल टेक्नोलॉजीज, आदि जैसे उच्च विकास प्रौद्योगिकी कंपनियों में।"
+    },
+    {
+      "question": "Why should I invest with Jupiter Money?",
+      "answer": "Jupiter doesn’t charge any hidden commissions of 1.5% over and above your investment amount like other regular funds. Jupiter doesn’t charge Penalties of up to Rs 750 that other banks charge in case you miss a SIP because of insufficient balance in your account Easy investing - No-Penalty SIP - If you’re ever running low on money in your Jupiter account, we will auto-skip your SIP. This way, there are no Penalty Charges to be paid - One-click SIPs. None of the filling in paperwork and putting down your signature on forms On-Click cancel for any SIP. No questions asked",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "मुझे बृहस्पति के पैसे के साथ क्यों निवेश करना चाहिए?",
+      "answer_hi": "कम भुगतान करें, अधिक रिटर्न अर्जित करें बृहस्पति अन्य नियमित फंडों की तरह आपकी निवेश राशि से अधिक और ऊपर 1.5% के किसी भी छिपे हुए कमीशन को चार्ज नहीं करता है। बृहस्पति 750 रुपये तक का दंड नहीं देता है कि अन्य बैंक आपके खाते में एक एसआईपी को याद करते हैं क्योंकि आपके खाते में अपर्याप्त शेष राशि आसान निवेश है क्योंकि आपका बृहस्पति ऐप भी आपका निवेश ऐप है: - जुपिटर अन्य नियमित फंडों की तरह 1.5% से अधिक और आपके निवेश राशि से ऊपर के किसी भी छिपे हुए कमीशन को चार्ज नहीं करता है। - बृहस्पति 750 रुपये तक का दंड नहीं देता है, जब अन्य बैंक आपके खाते में एक एसआईपी को याद करते हैं, क्योंकि आपके खाते में अपर्याप्त शेष राशि आसान निवेश - नो -पेनल्टी एसआईपी - यदि आप कभी भी अपने बृहस्पति खाते में पैसे पर कम नहीं चल रहे हैं, तो हम आपके एसआईपी को ऑटो -स्किप करेंगे। इस तरह, भुगतान करने के लिए कोई जुर्माना शुल्क नहीं है - एक -क्लिक घूंट। कागजी कार्रवाई में भरने में से कोई भी नहीं है और किसी भी एसआईपी के लिए बंद रद्द करने के लिए फॉर्म पर अपने हस्ताक्षर को नीचे नहीं डालता है। कोई सवाल नहीं पूछा"
+    },
+    {
+      "question": "What are Direct Mutual Funds which Jupiter provides?",
+      "answer": "Direct Mutual Funds are mutual funds with zero commissions or brokerage charges. They offer up to 1.5% extra returns compared to other Mutual Funds.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "प्रत्यक्ष म्यूचुअल फंड क्या हैं जो बृहस्पति प्रदान करता है?",
+      "answer_hi": "प्रत्यक्ष म्यूचुअल फंड शून्य कमीशन या ब्रोकरेज शुल्क के साथ म्यूचुअल फंड हैं। वे अन्य म्यूचुअल फंड की तुलना में 1.5% अतिरिक्त रिटर्न प्रदान करते हैं"
+    },
+    {
+      "question": "Why should I invest in Mutual Funds?",
+      "answer": "You can invest in Mutual funds as: You can save upto Rs 46,800 in your taxes every year. Your invested money compounds generating more money for you each year. You learn to save money for your future and build financial discipline.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "मुझे म्यूचुअल फंड में निवेश क्यों करना चाहिए?",
+      "answer_hi": "आप म्यूचुअल फंड में निवेश कर सकते हैं: आप हर साल अपने करों में 46,800 रुपये तक बचा सकते हैं। आपके निवेश किए गए मनी कम्पाउंड हर साल आपके लिए अधिक पैसा पैदा करते हैं। आप अपने भविष्य के लिए पैसे बचाना और वित्तीय अनुशासन बनाना सीखते हैं"
+    },
+    {
+      "question": "Are Mutual Funds regulated?",
+      "answer": "Mutual fund companies are regulated by the Securities and Exchange Board of India (SEBI). SEBI falls under the control of the Ministry of Finance of India.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "क्या म्यूचुअल फंड विनियमित हैं?",
+      "answer_hi": "म्यूचुअल फंड कंपनियों को प्रतिभूति और एक्सचेंज बोर्ड ऑफ इंडिया (SEBI) द्वारा विनियमित किया जाता है। सेबी भारत के वित्त मंत्रालय के नियंत्रण में आता है।"
+    },
+    {
+      "question": "I don’t know what Mutual Funds to invest in. What do I do?",
+      "answer": "To start investing, it's important to know why you're investing. To help you with this, we've created Mutual Funds collections to get you started - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better than FD - Low cost index funds - SIP with 500. Here you will find Mutual Funds most relevant to your investment objectives - : - High Growth - Tax Saving Funds - Better",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "मुझे नहीं पता कि क्या म्यूचुअल फंड में निवेश करना है। मैं क्या करूँ?",
+      "answer_hi": "निवेश शुरू करने के लिए, यह जानना महत्वपूर्ण है कि आप निवेश क्यों कर रहे हैं। इसके साथ आपकी सहायता करने के लिए, हमने आपको शुरू करने के लिए म्यूचुअल फंड कलेक्शन बनाए हैं -: - उच्च वृद्धि - कर बचत निधि - एफडी से बेहतर - कम लागत सूचकांक फंड - 500 के साथ एसआईपी। यहां आपको अपने निवेश उद्देश्यों के लिए म्यूचुअल फंड सबसे अधिक प्रासंगिक मिलेगा।"
+    },
+    {
+      "question": "What is the smallest amount I can invest in Mutual Funds?",
+      "answer": "You can start investing in Mutual Funds with as little as Rs. 500. We've put together a Collection containing all Mutual Funds where you can start investing with Rs. 500.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "म्यूचुअल फंड में मैं सबसे छोटी राशि क्या कर सकता हूं?",
+      "answer_hi": "आप म्यूचुअल फंड में रु। 500 हमने सभी म्यूचुअल फंड वाले एक संग्रह को एक साथ रखा है जहां आप 500 रुपये के साथ निवेश करना शुरू कर सकते हैं।"
+    },
+    {
+      "question": "Is investing in Mutual Funds difficult?",
+      "answer": "Investing in Mutual Funds is a breeze on Jupiter. All you need to do is: - Pick a Mutual Fund of your choice or select one from our curated “Collections” - Choose between making a “SIP” or “One Time investment” - Swipe to pay! - That’s it! You’ve made your Mutual Fund investment!",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "क्या म्यूचुअल फंड में निवेश मुश्किल है?",
+      "answer_hi": "म्यूचुअल फंड में निवेश करना बृहस्पति पर एक हवा है। आपको बस इतना करना है: - अपनी पसंद का म्यूचुअल फंड चुनें या हमारे क्यूरेटेड \"कलेक्शंस\" से एक का चयन करें - \"एसआईपी\" या \"वन टाइम इन्वेस्टमेंट\" बनाने के बीच चुनें - भुगतान करने के लिए स्वाइप करें! - इतना ही! आपने अपना म्यूचुअल फंड निवेश किया है"
+    },
+    {
+      "question": "How long does it take to get started with Mutual Funds on Jupiter?",
+      "answer": "If you’re a verified user on the Jupiter app, you can make your investment in under 5 minutes.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "बृहस्पति पर म्यूचुअल फंड के साथ शुरुआत करने में कितना समय लगता है?",
+      "answer_hi": "यदि आप बृहस्पति ऐप पर एक सत्यापित उपयोगकर्ता हैं, तो आप अपना निवेश 5 मिनट में कर सकते हैं"
+    },
+    {
+      "question": "I’ve never been charged a Penalty before. Why should I choose No-Penalty SIPs?",
+      "answer": "It’s amazing that you’ve never been charged a Penalty. This shows you have financial discipline. Investing with No-Penalty SIP gives you a sense of freedom. So if ever you have an emergency or want to use your money for another cause, you can simply tap to skip your SIP. No Penalty Charges. No questions asked. The choice rests with you!",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "मुझे पहले कभी जुर्माना नहीं दिया गया था। मुझे नो-पेनल्टी घूंट क्यों चुनना चाहिए?",
+      "answer_hi": "यह आश्चर्यजनक है कि आपसे कभी भी जुर्माना नहीं दिया गया है। इससे पता चलता है कि आपके पास वित्तीय अनुशासन है। बिना पेनल्टी एसआईपी के साथ निवेश करने से आपको स्वतंत्रता का एहसास होता है। इसलिए यदि आपके पास कभी भी आपातकालीन स्थिति है या किसी अन्य कारण के लिए अपने पैसे का उपयोग करना चाहते हैं, तो आप बस अपने घूंट को छोड़ सकते हैं। कोई जुर्माना शुल्क नहीं। कोई सवाल नहीं पूछा। पसंद आपके साथ टिकी हुई है!"
+    },
+    {
+      "question": "How is Jupiter not charging the Rs. 250-750 Penalty? Is there any catch or fine-print?",
+      "answer": "When your SIP autopay mandate fails due to insufficient balance, you have to pay a penalty. AMCs don’t charge this penalty – banks do. Each bank would have their own penalty charge for not maintaining sufficient funds for the Electronic Clearing Service (ECS) mandate to go through. At Jupiter, because you bank and invest on the same app, we smartly pause your SIP for the current month when your Jupiter balance is low. No charges, ever.",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "बृहस्पति रुपये कैसे चार्ज नहीं कर रहा है। 250-750 पेनल्टी? क्या कोई कैच या फाइन-प्रिंट है?",
+      "answer_hi": "जब आपका एसआईपी ऑटोपाय जनादेश अपर्याप्त शेष के कारण विफल हो जाता है, तो आपको जुर्माना देना होगा। एएमसी इस दंड को चार्ज नहीं करते हैं - बैंक करते हैं। प्रत्येक बैंक के पास इलेक्ट्रॉनिक क्लियरिंग सेवा (ईसीएस) जनादेश के लिए पर्याप्त धन बनाए नहीं रखने के लिए अपना स्वयं का जुर्माना शुल्क होगा। यह जुर्माना 250-750 से है। बृहस्पति पर, क्योंकि आप एक ही ऐप पर बैंक और निवेश करते हैं, हम आपके बृहस्पति संतुलन के कम होने पर वर्तमान महीने के लिए आपके एसआईपी को चालाकी से रोकते हैं। कोई शुल्क नहीं, कभी"
+    },
+    {
+      "question": "Do you mean I don’t get same day’s NAV elsewhere?",
+      "answer": "Most Mutual Fund investment platforms may take a few working days to allocate units after you place an order. On Jupiter, you’re allotted units as per the NAV you see on the app (if you invest before 2 PM on working days).",
+      "topics": [
+        "General"
+      ],
+      "question_hi": "क्या आपका मतलब है कि मुझे उसी दिन का नौसेना कहीं और नहीं मिलता है?",
+      "answer_hi": "अधिकांश म्यूचुअल फंड इनवेस्टमेंट प्लेटफॉर्म आपको ऑर्डर देने के बाद इकाइयों को आवंटित करने के लिए कुछ कार्य दिवस लग सकते हैं। इस दौरान NAV बदल सकता है। बृहस्पति पर, आप APP पर देखते हैं कि NAV के अनुसार इकाइयाँ आवंटित की गई हैं (यदि आप कार्य दिवसों पर दोपहर 2 बजे से पहले निवेश करते हैं)।"
+    }
+  ]
+}
