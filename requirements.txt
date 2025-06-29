@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+sentence-transformers
+langdetect
+pandas
+torch
+transformers
+deep-translator
+tldextract
+beautifulsoup4
+requests
